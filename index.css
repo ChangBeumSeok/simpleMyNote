@@ -33,7 +33,10 @@ body{
 }
 
 .toDoList{
-    margin-left: 44%;
+    margin-left: 42.5%;
+    background-color: white;
+    width: 15%;
+    color: black;
 }
 @keyframes fadeIn{
     from{
